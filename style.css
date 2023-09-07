@@ -198,7 +198,7 @@ main img {
   .main-content {
     flex-direction: column-reverse;
     text-align: center;
-    margin-top: 5rem;
+    margin-top: 8rem;
   }
   
   .social-list {
@@ -211,7 +211,7 @@ main img {
   }
   
   main img {
-    max-width: 150px;
+    max-width: 200px;
   }
   
   .main-text {
@@ -220,7 +220,6 @@ main img {
   
   .main-text h1 {
     line-height: 80%;
-    font-size: 3rem;
   }
 }
 
