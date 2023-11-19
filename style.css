@@ -630,7 +630,9 @@ footer {
   padding: 2rem 0;
   text-align: center;
   background: var(--clr-dark);
-  background: no-repeat center/cover url(images/footer-background.jpg);
+  background: url(images/footer-background.jpg);
+  background-size: cover;
+  background-repeat: repeat;
   color: var(--clr-white);
 }
 
